@@ -1,5 +1,7 @@
 # CustomPC-01-OpenCore
- 
+
+### This repo is a public archive now and will not be worked on any longer. The latest version supported will be Monterey
+
 ## Setup
 
 - Intel Haswell using iGPU
